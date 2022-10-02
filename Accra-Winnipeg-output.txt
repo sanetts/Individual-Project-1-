@@ -1,0 +1,47 @@
+1. 2J from ACC to OUA 0 stops.
+2. TU from OUA to TUN 0 stops.
+3. UG from TUN to NAP 0 stops.
+4. ZB from NAP to LTN 0 stops.
+5. ZB from LTN to MAH 0 stops.
+6. BA from MAH to LCY 0 stops.
+7. SX from LCY to BRN 0 stops.
+8. SX from BRN to EBA 0 stops.
+9. 3L from EBA to FDH 0 stops.
+10. 3L from FDH to ZAD 0 stops.
+11. OU from ZAD to ZAG 0 stops.
+12. OU from ZAG to SPU 0 stops.
+13. SK from SPU to GOT 0 stops.
+14. IR from GOT to IKA 0 stops.
+15. WY from IKA to MCT 0 stops.
+16. WY from MCT to ZNZ 0 stops.
+17. KQ from ZNZ to DAR 0 stops.
+18. WB from DAR to KGL 0 stops.
+19. WB from KGL to LBV 0 stops.
+20. ET from LBV to FIH 0 stops.
+21. BU from FIH to FBM 0 stops.
+22. ET from FBM to NLA 0 stops.
+23. P0 from NLA to LUN 0 stops.
+24. SA from LUN to DUR 0 stops.
+25. MK from DUR to MRU 0 stops.
+26. MK from MRU to HKG 0 stops.
+27. UA from HKG to GUM 0 stops.
+28. UA from GUM to HNL 0 stops.
+29. UA from HNL to IAD 0 stops.
+30. UA from IAD to TYS 0 stops.
+31. G4 from TYS to SFB 0 stops.
+32. G4 from SFB to YNG 0 stops.
+33. G4 from YNG to MYR 0 stops.
+34. NK from MYR to ACY 0 stops.
+35. NK from ACY to RSW 0 stops.
+36. B6 from RSW to HPN 0 stops.
+37. B6 from HPN to PBI 0 stops.
+38. UP from PBI to NAS 0 stops.
+39. BA from NAS to PLS 0 stops.
+40. JY from PLS to POP 0 stops.
+41. AC from POP to YHZ 0 stops.
+42. WS from YHZ to YYC 0 stops.
+43. AC from YYC to YWG 0 stops.
+
+Total flights: 43
+Total additional stops: 0
+Optimality criteria: flights
